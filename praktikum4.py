@@ -1,7 +1,6 @@
 praktikum4.py
 
-#Membuat variable perulangan dengan eaa.....
-#izin
+#Membuat variable perulangan.
 data = []
 while True : 
 	nama	= input	("Nama 		:")
