@@ -48,8 +48,6 @@ print("════════════════════════�
 ## Hasil Source Code
 ```python
 #Membuat variable perulangan dengan eaa.....
-#izin
-#herli Coder
 data = []
 while True : 
 	nama	= input	("Nama 		:")
