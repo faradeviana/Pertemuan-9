@@ -14,7 +14,6 @@
 
 ## Hasil Source Code
 ```python
-#herli
 #Akses pada list
 data = [11,12,13,14,15]
 print ("menampilkan semua list: ", data[0:6])
