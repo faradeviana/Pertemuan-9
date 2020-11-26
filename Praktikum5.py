@@ -1,7 +1,7 @@
 Praktikum5.py
 
 # -- encoding: utf-8 --
-#herli Coder
+#FARA DEVIANA
 #KELAS : TI.20.A.2
 
 P = print
